@@ -1,0 +1,145 @@
+body{
+    background-image: url(../Css/IMG/fondecranMassacre.jpg);
+    /* padding-top: 1em;
+    justify-content: center; */
+    text-align: center;
+  }
+
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    color: #f3baba;
+    font-size: 50pt;
+}
+
+/* barre de navigation avec image */
+.barnav
+{ 
+text-align: center;
+
+}
+
+
+.barnav,.navigation{
+    display: inline;   
+}
+
+.navigation, .film
+{
+    display: inline;
+    height:80px;
+    width: 100px;   
+    padding:10px;
+}
+/* fin barre navigation  */
+
+/* .navigation {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -200px;
+    background-color: transparent;
+    height: 50%;
+    width: 10%;
+} */
+
+h2{
+    text-align: center;
+    color: #f3baba;
+
+}
+
+.container{
+    font-family: arial;
+    color: #f3baba;
+}
+
+.text{
+color: #f3baba;
+font-family: arial;
+background-color: black;
+}
+
+ h3{ 
+    font-family: arial;
+    color: #f3baba;
+    font-size: 20px;  
+}
+
+.header{
+    text-align: center;
+    color: #f3baba; 
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20pt;
+    background-color: black;
+}
+
+.img{
+    text-align: center;
+}
+
+.film{
+    float:left;
+    font-family: "arial";
+}
+
+.wikifilm{
+    height:600px;
+    width: 400px;
+}
+
+.synopsis{
+    font-family: "arial";
+    padding-left: 200px;
+    margin-right: 200px;
+    width: 700px;
+}
+
+.synopsis, .extrait{
+   display: inline-block;
+   text-align: center;
+   padding:auto;
+   margin: auto;
+}
+
+.extrait{ 
+    text-align: center;
+    padding:auto;
+    margin: auto;
+}
+
+.music{
+    display: inline-block;
+    width: 300px;
+    float: right;   
+}
+
+.commentaire{  
+    widows: 300px;
+    height: 200px;
+    font-family: "arial";
+}
+
+.button{
+    color:#f3baba;
+    text-align:center;
+}
+
+.valider{
+    text-align:center;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+h4{ 
+    font-family: arial;
+    color: #f3baba;
+    font-size: 20px;  
+}
+
+.zonecom{
+    text-align:center;
+}

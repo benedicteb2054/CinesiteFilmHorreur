@@ -1,0 +1,44 @@
+body{
+    background-image: url(../Css/IMG/fondecranQuiz1.jpg);
+    /* padding-top: 1em;
+    justify-content: center; */
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    color: blue;
+    font-size: 30pt;
+}
+
+.question{
+    text-align: center,justify;
+    color: blue;
+    background-color: black;
+}
+
+.reponses{
+    text-align: center,justify;
+    color: brown;
+}
+
+form {
+    /* centrer le formulaire sur la page */
+    margin: 0 auto;
+    width: 400px;
+    /* Encadré pour voir les limites du formulaire */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+#btn-radio{
+    width: 300px;
+    box-sizing: border-box;
+}

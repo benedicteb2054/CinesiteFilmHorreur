@@ -1,0 +1,74 @@
+body {
+  background-image: url(../Css/IMG/fondecranHalloweenHorreur.jpg);
+	font-size:18px;
+	font-family: "arial";
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+image {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.barnav{ 
+text-align: center;
+}
+
+.barnav,.navigation{
+    display: inline;   
+}
+
+.navigation, .film{
+    display: inline;
+    height:80px;
+    width: 100px;   
+    padding:10px;
+}
+.navigation {
+    text-align: center;
+    margin: 0 auto;
+    /* margin-top: -200px; */
+    background-color: transparent;
+}
+
+.img{
+  text-align: center;
+}
+
+.banner{
+    text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: purple;
+}
+
+.Contact {
+    margin:80px;
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+
+.header{
+  text-align: center;
+  color: purple; 
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 20pt;
+}
+
+.container{
+  font-family: arial;
+  color: purple;
+}
+
+.text{
+  color: purple;
+  font-family: arial;
+  background-color: black;
+}
+  
